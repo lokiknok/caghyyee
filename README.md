@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lohith V</h1>
 <h3 align="center">BCA Student | MERN Stack Developer | Java Backend Enthusiast</h3>
 
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" width="350" src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://giphy.com/gifs/animation-loop-3o7aCTfyhYawdOXcFW)">
 
 ### 🚀 About Me
 
