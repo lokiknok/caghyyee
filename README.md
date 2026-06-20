@@ -3,7 +3,7 @@
 
 <img align="right" alt="Coding" width="350" src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://giphy.com/gifs/animation-loop-3o7aCTfyhYawdOXcFW)">
 
-### 🚀 About Me
+# 🚀 About Me
 
 - 🎓 BCA Student at Bharathiar University
 - 💻 Learning MERN Stack Development
